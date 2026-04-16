@@ -1,0 +1,19 @@
+import { useEffect, useState } from "react";
+
+function Color() {
+  const [favoriteColor, setFavoriteColor] = useState("red");
+
+  useEffect(() => {
+    alert("useEffect reached");
+    setFavoriteColor("yellow");
+  }, []);
+
+  return (
+    <div>
+      <h1>My Favorite Color is {favoriteColor}</h1>
+      <button onClick={() => setFavoriteColor("blue")}>Change color</button>
+    </div>
+  );
+}
+
+export default Color;

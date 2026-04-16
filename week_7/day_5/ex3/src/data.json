@@ -1,0 +1,35 @@
+{
+    "socialMedias": [
+      "https://github.com/",
+      "https://www.linkedin.com/",
+      "https://www.facebook.com/"
+    ],
+    "skills": {
+      "Programming Language": ["Java", "C#", "Python"],
+      "Web-Based Application Development": [
+        "JavaScript (ES5, ES6)",
+        "TypeScript",
+        "HTML5",
+        "CSS (SCSS/SASS)",
+        "React"
+      ]
+    },
+    "experiences": [
+      {
+        "id": 1,
+        "img": "https://www.geeks.institute/app",
+        "name": "Remit Technologies",
+        "role": "Full Stack Developer",
+        "date": "2017-01 to Now",
+        "desc": "Built and updated various Chrome Extensions."
+      },
+      {
+        "id": 2,
+        "img": "https://www.geeks.institute/app",
+        "name": "Tech Studio",
+        "role": "UI Designer",
+        "date": "2016-05 to 2018",
+        "desc": "Design user friendly web pages."
+      }
+    ]
+  }

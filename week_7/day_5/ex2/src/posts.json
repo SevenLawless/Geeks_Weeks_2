@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "Hello World",
+      "content": "Trying all of this out",
+      "date": "12-04-2017",
+      "slug": "hello-world"
+    },
+    {
+      "id": 2,
+      "title": "Settin up",
+      "content": "Setting up all this is ez ig",
+      "date": "1-28-2018",
+      "slug": "setup-react"
+    }
+  ]
